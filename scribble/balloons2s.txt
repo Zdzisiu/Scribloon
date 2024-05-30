@@ -1,0 +1,39 @@
+//——— SSTP ———
+sstpmarker.x,60
+sstpmarker.y,-60
+
+sstpmessage.font.name,Calibri
+sstpmessage.font.height,11
+
+sstpmessage.x,40
+sstpmessage.xr,-20
+sstpmessage.y,-60
+
+sstpmessage.font.color.r,255
+sstpmessage.font.color.g,194
+sstpmessage.font.color.b,091
+
+
+//——— Number ———
+number.font.name,Calibri
+number.font.height,11
+
+number.xr,-40
+number.y,-60
+
+number.font.color.r,255
+number.font.color.g,194
+number.font.color.b,091
+
+//——— Arrows ———
+arrow0.x,-80
+arrow0.y,60
+
+arrow1.x,-80
+arrow1.y,-80
+
+//——— Online marker ———
+onlinemarker.x,60
+onlinemarker.y,-80
+
+onlinemarker.interval,175
